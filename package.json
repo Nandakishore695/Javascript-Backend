@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  },
+  "name": "javascript-backend",
+  "version": "1.0.0",
+  "description": "This is demo learning javascript backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nandakishore",
+  "license": "ISC"
+}
